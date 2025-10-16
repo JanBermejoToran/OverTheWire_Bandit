@@ -15,3 +15,18 @@ otros:
 - https://www.wikihow.com/Use-SSH
 
 ############################################################################################
+
+##################################
+########### SOLUCIÓN #############
+############################################################################################
+
+Para acceder a la maquina lo tenemos que hacer mediante ssh, exactamente con lo siguiente
+
+Usuario: bandit0
+Contraseña: bandit0
+IP: bandit.labs.overthewire.org
+
+Codigo para poner en la terminal:  ssh -p 2220 bandit0@bandit.labs.overthewire.org
+Luego te pedira contraseña y ponemos la que indicamos antes (bandit0)
+
+#############################################################################################
